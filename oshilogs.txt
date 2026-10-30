@@ -12,53 +12,45 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Salina =====
-[1]Salina      |09:33:27 | 29-10-2026| login OK @salinamrnda | score=2340 rank=3390
-[1]Salina      |09:33:27 | 29-10-2026| serverTime=2026-10-29T09:33:27.000Z local=2026-10-29T09:33:27.354Z
+[1]Salina      |09:43:35 | 30-10-2026| login OK @salinamrnda | score=2450 rank=3211
+[1]Salina      |09:43:35 | 30-10-2026| serverTime=2026-10-30T09:43:35.000Z local=2026-10-30T09:43:35.886Z
 --> [1]Salina menjalankan: Claim Daily
-[1]Salina      |09:33:28 | 29-10-2026| daily: OK +10 poin score=2350
---> [1]Salina menjalankan: Auto All Tasks (10 pending)
-[1]Salina      |09:33:30 | 29-10-2026| [1/10] 4b02b48f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/salinamrnda/status/2115738435781302757
-[1]Salina      |09:33:30 | 29-10-2026| delay 10s...
-[1]Salina      |09:33:42 | 29-10-2026| [2/10] 5c713c28 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/salinamrnda/status/2115738464537271132
-[1]Salina      |09:33:42 | 29-10-2026| delay 10s...
-[1]Salina      |09:33:54 | 29-10-2026| [3/10] a4b0b050 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/salinamrnda/status/2115738518083777113
-[1]Salina      |09:33:54 | 29-10-2026| delay 10s...
-[1]Salina      |09:34:05 | 29-10-2026| [4/10] 6fb148bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/salinamrnda/status/2115738655886594007
-[1]Salina      |09:34:05 | 29-10-2026| delay 10s...
-[1]Salina      |09:34:17 | 29-10-2026| [5/10] c0149815 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/salinamrnda/status/2115738625620627428
-[1]Salina      |09:34:17 | 29-10-2026| delay 10s...
-[1]Salina      |09:34:29 | 29-10-2026| [6/10] 3a2ebc56 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/salinamrnda/status/2115738678984609846
-[1]Salina      |09:34:29 | 29-10-2026| delay 10s...
-[1]Salina      |09:34:42 | 29-10-2026| [7/10] 21a80281 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/salinamrnda/status/2115738817067615462
-[1]Salina      |09:34:42 | 29-10-2026| delay 10s...
-[1]Salina      |09:34:53 | 29-10-2026| [8/10] 623aac60 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/salinamrnda/status/2115738865613907454
-[1]Salina      |09:34:53 | 29-10-2026| delay 10s...
-[1]Salina      |09:35:05 | 29-10-2026| [9/10] 8545d68c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/salinamrnda/status/2115738604551400300
-[1]Salina      |09:35:05 | 29-10-2026| delay 10s...
-[1]Salina      |09:35:17 | 29-10-2026| [10/10] 125a0329 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321
-[1]Salina      |09:35:17 | 29-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Salina      |09:35:19 | 29-10-2026| [1/1] 4b02b48f (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2115728806573219 | proof=https://x.com/salinamrnda/status/2115738738525236665
+[1]Salina      |09:43:37 | 30-10-2026| daily: OK +10 poin score=2460
+--> [1]Salina menjalankan: Auto All Tasks (6 pending)
+[1]Salina      |09:43:39 | 30-10-2026| [1/6] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/salinamrnda/status/2116103336714108951
+[1]Salina      |09:43:39 | 30-10-2026| delay 10s...
+[1]Salina      |09:43:51 | 30-10-2026| [2/6] 2b535748 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/salinamrnda/status/2116103353945292995
+[1]Salina      |09:43:51 | 30-10-2026| delay 10s...
+[1]Salina      |09:44:03 | 30-10-2026| [3/6] 41ea1884 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/salinamrnda/status/2116103538434726815
+[1]Salina      |09:44:03 | 30-10-2026| delay 10s...
+[1]Salina      |09:44:15 | 30-10-2026| [4/6] ef7e9fb7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/salinamrnda/status/2116103417209821778
+[1]Salina      |09:44:15 | 30-10-2026| delay 10s...
+[1]Salina      |09:44:27 | 30-10-2026| [5/6] 0aa0f4ba (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/salinamrnda/status/2116103347020769066
+[1]Salina      |09:44:27 | 30-10-2026| delay 10s...
+[1]Salina      |09:44:40 | 30-10-2026| [6/6] 137da6db (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790
+[1]Salina      |09:44:40 | 30-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Salina      |09:44:42 | 30-10-2026| [1/1] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2116040079017906 | proof=https://x.com/salinamrnda/status/2116103442742360305
 --> [1]Salina menjalankan: Watch Anime
-[1]Salina      |09:35:19 | 29-10-2026| watch: semua video sudah completed
+[1]Salina      |09:44:43 | 30-10-2026| watch: semua video sudah completed
 --> [1]Salina menjalankan: Read Article
-[1]Salina      |09:35:21 | 29-10-2026| news: 30/30 artikel selesai dibaca
-[1]Salina      |09:35:21 | 29-10-2026| mint eligibility: {"userId":"1772768649373458432","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@salinamirandaa","status":"submitted","revision":"1b268335-bf36-4f91-9f25-2ac71db
-[1]Salina      |09:35:21 | 29-10-2026| news: semua artikel sudah dibaca
+[1]Salina      |09:44:45 | 30-10-2026| news: 30/30 artikel selesai dibaca
+[1]Salina      |09:44:45 | 30-10-2026| mint eligibility: {"userId":"1772768649373458432","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@salinamirandaa","status":"submitted","revision":"1b268335-bf36-4f91-9f25-2ac71db
+[1]Salina      |09:44:45 | 30-10-2026| news: semua artikel sudah dibaca
 --> [1]Salina menjalankan: Quiz Anime
 --> [1]Salina menjalankan: Music Missions (realtime, bisa lama!)
-[1]Salina      |09:35:23 | 29-10-2026| music: kedua misi sudah tercapai, stop
-[1]Salina      |09:35:24 | 29-10-2026| mission music-listens-10: sudah diklaim
-[1]Salina      |09:35:24 | 29-10-2026| mission music-minutes-30: sudah diklaim
-[1]Salina      |09:35:24 | 29-10-2026| mission anime-completed-3: sudah diklaim
+[1]Salina      |09:44:48 | 30-10-2026| music: kedua misi sudah tercapai, stop
+[1]Salina      |09:44:48 | 30-10-2026| mission music-listens-10: sudah diklaim
+[1]Salina      |09:44:48 | 30-10-2026| mission music-minutes-30: sudah diklaim
+[1]Salina      |09:44:48 | 30-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Salina menjalankan: Claim Missions
-[1]Salina      |09:35:24 | 29-10-2026| mission music-listens-10: sudah diklaim
-[1]Salina      |09:35:24 | 29-10-2026| mission music-minutes-30: sudah diklaim
-[1]Salina      |09:35:24 | 29-10-2026| mission anime-completed-3: sudah diklaim
+[1]Salina      |09:44:49 | 30-10-2026| mission music-listens-10: sudah diklaim
+[1]Salina      |09:44:49 | 30-10-2026| mission music-minutes-30: sudah diklaim
+[1]Salina      |09:44:49 | 30-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Salina menjalankan: Check Eligibility
 
 --- eligibility [1]Salina ---
-  @salinamrnda | score=2340 rank=3390
-  tasks    [######--------------] 4/14
+  @salinamrnda | score=2450 rank=3211
+  tasks    [########------------] 4/10
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -69,14 +61,15 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Salina menjalankan: Read Manga
-[1]Salina      |09:35:28 | 29-10-2026| manga: 0/13 chapter belum completed
+[1]Salina      |09:44:53 | 30-10-2026| manga: 0/13 chapter belum completed
 --> [1]Salina menjalankan: Get Gift
-[1]Salina      |09:35:28 | 29-10-2026| gift: 0/5 belum diterima
+[1]Salina      |09:44:53 | 30-10-2026| gift: 1/6 belum diterima
+[1]Salina      |09:44:55 | 30-10-2026| gift [1/1] I’m minting. Welcoming my Oshii.: OK
 --> [1]Salina menjalankan: Setup Profile
-[1]Salina      |09:35:29 | 29-10-2026| profile: bio="https://x.com/salinamrnda" fav=kagura rewardAt=1791707058
-[1]Salina      |09:35:29 | 29-10-2026| profile: bonus sudah diklaim, skip
+[1]Salina      |09:44:57 | 30-10-2026| profile: bio="https://x.com/salinamrnda" fav=kagura rewardAt=1791707058
+[1]Salina      |09:44:57 | 30-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Salina menjalankan: Bind Wallet
-[1]Salina      |09:35:29 | 29-10-2026| wallet: sudah terikat 5pLPLm96LZ... (solana)
+[1]Salina      |09:44:58 | 30-10-2026| wallet: sudah terikat 5pLPLm96LZ... (solana)
 
 == RINGKASAN ==
-- Salina: daily=claimed | tasks OK 11/11 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/5 diterima | profile - | wallet bound | mint req=false open=false
+- Salina: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/6 diterima | profile - | wallet bound | mint req=false open=false
