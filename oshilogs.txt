@@ -12,35 +12,43 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Salina =====
-[1]Salina      |10:18:00 | 27-11-2026| login OK @salinamrnda | score=3560 rank=2172
-[1]Salina      |10:18:00 | 27-11-2026| serverTime=2026-11-27T10:18:00.000Z local=2026-11-27T10:18:00.386Z
+[1]Salina      |09:36:30 | 28-11-2026| login OK @salinamrnda | score=3580 rank=2173
+[1]Salina      |09:36:30 | 28-11-2026| serverTime=2026-11-28T09:36:30.000Z local=2026-11-28T09:36:30.975Z
 --> [1]Salina menjalankan: Claim Daily
-[1]Salina      |10:18:02 | 27-11-2026| daily: OK +10 poin score=3570
---> [1]Salina menjalankan: Auto All Tasks (1 pending)
-[1]Salina      |10:18:04 | 27-11-2026| [1/1] dfcc39bb (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"dfcc39bb-f2a7-4f71-9a1b-fa722a1df07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212593152719651 | proof=https://x.com/salinamrnda/status/2126258910424571534
-[1]Salina      |10:18:04 | 27-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Salina      |10:18:05 | 27-11-2026| [1/1] dfcc39bb (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"dfcc39bb-f2a7-4f71-9a1b-fa722a1df07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2125931527196512 | proof=https://x.com/salinamrnda/status/2126258905405846843
+[1]Salina      |09:36:32 | 28-11-2026| daily: OK +10 poin score=3590
+--> [1]Salina menjalankan: Auto All Tasks (5 pending)
+[1]Salina      |09:36:34 | 28-11-2026| [1/5] 1d1eb12c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1d1eb12c-2935-461a-908e-f7700de8184a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212657261624082 | proof=https://x.com/salinamrnda/status/2126610677128161730
+[1]Salina      |09:36:34 | 28-11-2026| delay 10s...
+[1]Salina      |09:36:46 | 28-11-2026| [2/5] a0bc0e58 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1d1eb12c-2935-461a-908e-f7700de8184a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212657261624082 | proof=https://x.com/salinamrnda/status/2126610819653455445
+[1]Salina      |09:36:46 | 28-11-2026| delay 10s...
+[1]Salina      |09:36:59 | 28-11-2026| [3/5] 3f5fb2d5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1d1eb12c-2935-461a-908e-f7700de8184a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212657261624082 | proof=https://x.com/salinamrnda/status/2126610841204977122
+[1]Salina      |09:36:59 | 28-11-2026| delay 10s...
+[1]Salina      |09:37:11 | 28-11-2026| [4/5] 3f5ce0b6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1d1eb12c-2935-461a-908e-f7700de8184a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212657261624082 | proof=https://x.com/salinamrnda/status/2126611018965653454
+[1]Salina      |09:37:11 | 28-11-2026| delay 10s...
+[1]Salina      |09:37:23 | 28-11-2026| [5/5] 4cdfafa2 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1d1eb12c-2935-461a-908e-f7700de8184a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212657261624082 | proof=https://x.com/salinamrnda/status/2126610841104244211
+[1]Salina      |09:37:23 | 28-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Salina      |09:37:25 | 28-11-2026| [1/1] 1d1eb12c (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"1d1eb12c-2935-461a-908e-f7700de8184a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2126572616240824 | proof=https://x.com/salinamrnda/status/2126611000230034467
 --> [1]Salina menjalankan: Watch Anime
-[1]Salina      |10:18:05 | 27-11-2026| watch: semua video sudah completed
+[1]Salina      |09:37:25 | 28-11-2026| watch: semua video sudah completed
 --> [1]Salina menjalankan: Read Article
-[1]Salina      |10:18:06 | 27-11-2026| news: 35/35 artikel selesai dibaca
-[1]Salina      |10:18:06 | 27-11-2026| mint eligibility: {"userId":"1772768649373458432","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@salinamirandaa","status":"submitted","revision":"1b268335-bf36-4f91-9f25-2ac71db
-[1]Salina      |10:18:06 | 27-11-2026| news: semua artikel sudah dibaca
+[1]Salina      |09:37:25 | 28-11-2026| news: 35/35 artikel selesai dibaca
+[1]Salina      |09:37:26 | 28-11-2026| mint eligibility: {"userId":"1772768649373458432","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@salinamirandaa","status":"submitted","revision":"1b268335-bf36-4f91-9f25-2ac71db
+[1]Salina      |09:37:26 | 28-11-2026| news: semua artikel sudah dibaca
 --> [1]Salina menjalankan: Quiz Anime
 --> [1]Salina menjalankan: Music Missions (realtime, bisa lama!)
-[1]Salina      |10:18:08 | 27-11-2026| music: kedua misi sudah tercapai, stop
-[1]Salina      |10:18:08 | 27-11-2026| mission music-listens-10: sudah diklaim
-[1]Salina      |10:18:08 | 27-11-2026| mission music-minutes-30: sudah diklaim
-[1]Salina      |10:18:08 | 27-11-2026| mission anime-completed-3: sudah diklaim
+[1]Salina      |09:37:28 | 28-11-2026| music: kedua misi sudah tercapai, stop
+[1]Salina      |09:37:28 | 28-11-2026| mission music-listens-10: sudah diklaim
+[1]Salina      |09:37:28 | 28-11-2026| mission music-minutes-30: sudah diklaim
+[1]Salina      |09:37:28 | 28-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Salina menjalankan: Claim Missions
-[1]Salina      |10:18:08 | 27-11-2026| mission music-listens-10: sudah diklaim
-[1]Salina      |10:18:08 | 27-11-2026| mission music-minutes-30: sudah diklaim
-[1]Salina      |10:18:08 | 27-11-2026| mission anime-completed-3: sudah diklaim
+[1]Salina      |09:37:28 | 28-11-2026| mission music-listens-10: sudah diklaim
+[1]Salina      |09:37:28 | 28-11-2026| mission music-minutes-30: sudah diklaim
+[1]Salina      |09:37:28 | 28-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Salina menjalankan: Check Eligibility
 
 --- eligibility [1]Salina ---
-  @salinamrnda | score=3560 rank=2172
-  tasks    [#################---] 5/6
+  @salinamrnda | score=3580 rank=2173
+  tasks    [##########----------] 5/10
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -51,17 +59,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Salina menjalankan: Read Manga
-[1]Salina      |10:18:11 | 27-11-2026| manga: 0/13 chapter belum completed
+[1]Salina      |09:37:30 | 28-11-2026| manga: 0/13 chapter belum completed
 --> [1]Salina menjalankan: Get Gift
-[1]Salina      |10:18:13 | 27-11-2026| gift: 3/12 belum diterima
-[1]Salina      |10:18:13 | 27-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Salina      |10:18:16 | 27-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Salina      |10:18:19 | 27-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Salina      |09:37:33 | 28-11-2026| gift: 3/12 belum diterima
+[1]Salina      |09:37:33 | 28-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Salina      |09:37:36 | 28-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Salina      |09:37:38 | 28-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Salina menjalankan: Setup Profile
-[1]Salina      |10:18:21 | 27-11-2026| profile: bio="https://x.com/salinamrnda" fav=kagura rewardAt=1791707058
-[1]Salina      |10:18:21 | 27-11-2026| profile: bonus sudah diklaim, skip
+[1]Salina      |09:37:41 | 28-11-2026| profile: bio="https://x.com/salinamrnda" fav=kagura rewardAt=1791707058
+[1]Salina      |09:37:41 | 28-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Salina menjalankan: Bind Wallet
-[1]Salina      |10:18:22 | 27-11-2026| wallet: sudah terikat 5pLPLm96LZ... (solana)
+[1]Salina      |09:37:41 | 28-11-2026| wallet: sudah terikat 5pLPLm96LZ... (solana)
 
 == RINGKASAN ==
-- Salina: daily=claimed | tasks OK 2/2 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
+- Salina: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
